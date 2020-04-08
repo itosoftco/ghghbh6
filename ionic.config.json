@@ -1,0 +1,8 @@
+{
+  "name": "qrcode",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "69569276"
+}
